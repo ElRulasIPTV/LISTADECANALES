@@ -1,19 +1,94 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg",LAS ESTRELLAS
+#INF:-1 ,las estrellasMX
 http://tv.nousiptv.com:8080/leo4590/426leo3816/4030
 
-#EXTINF:-1 tvg-id="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg",DE PELICULA
-https://tv.nousiptv.com:8080/leo4590/426leo3816/1155786
+#INF:-1 ,Clasic Channels
+https://paneltv.online:1936/8046/8046/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinO6n5KR3sMOd7x3xOIjaRkty9EXxZHl-SOh8U0GBVjShUWC4Kd3v3wwVPbd3gg65fmBLjO6MuiFrUpVV-UGiu_0bpw__NcEjVLshvVQYokZYJOCtBHjCF5AFDOMyGiKbyzVYwjTOq72awuqCtQ62E8d-JbZQqzhds7MHsa9avcFNxA7f-ugGwkl6O-Fg/s3125/logo%20de%20pelicula%20plus2a.jpg#",DE PELICULA PLUS
-https://tv.nousiptv.com:8080/leo4590/426leo3816/1155788
+#INF:-1 ,RND 44
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLalCZg-FvehcQd_gsk7aFRuCqo9dDJEOfd1hQjGDt75zJdrrY0DKklJUvngx6PNbneW67mUPZ_h61t8P2AIXBMsO0zdTbo5uXKUuvl6fvH_hFzScV9vtPcM1IYpX5NfD4oPMpaOTMNGzfCaSE_LNp0y9zgOtI_ggsb9OMz124xyey-ACV77guA74JVnM/s3125/claro%20cinema%20logo.jpg",CLARO CINEMA
-https://tv.nousiptv.com:8080/leo4590/426leo3816/4145
+#INF:-1 ,Sony Novelas
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOPNH26q-cdYaVEQSZfaW4WSr2KYlJnqHJnULtEnu7A1mOUFIV5fhe-SRjvRAJkctZoYLC-9jGvMHh9dUhMAleOMSk97-wI7prXp7EcPkB6vIVpLEmW2g81dWmICW4j28bqv28txKJU5gpUgirQZ3pcWWvWno_6WSev0NKVw3b_wcSpViSoQkqwhXNCxE/s3125/Cinema%20Dinamita%20logo.jpg",CINEMA DINAMITA
-https://tv.nousiptv.com:8080/leo4590/426leo3816/4142
+#INF:-1 ,Recuerdos Retro Radio y tv
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png",AZ CINEMA
-https://tv.nousiptv.com:8080/leo4590/426leo3816/4086
+#INF:-1 ,Vision TV (GT)
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#INF:-1 ,TVS Retro (GT)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#INF:-1 ,Canal BarbeTV (GT)
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#INF:-1 ,Canal Full Channel (GT)
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
+
+#INF:-1 ,GuaTV (GT)
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+
+#INF:-1 ,Toto Vision (GT)
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#INF:-1 ,Canal 35 (GT)
+https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
+
+#INF:-1 ,Centro Vision (GT)
+https://cdn.streamhispanatv.net:3313/live/centrovisionlive.m3u8
+
+#INF:-1 ,SolTV (GT)
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#INF:-1 ,Canal 8 (GT)
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+#INF:-1 ,FilMex Clasico
+https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
+
+#INF:-1 ,ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#INF:-1 ,Canal 10 (Chiapas)
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+
+#INF:-1 ,Latino Kids TV
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+
+#INF:-1 ,Mexiquense TV
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+
+#INF:-1 ,Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#INF:-1 ,Multimedios MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#INF:-1 ,Magic Kids
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
+
+#INF:-1 ,Urban TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+
+#INF:-1 ,Latinos Radio
+https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8
+
+#INF:-1 ,Retro Music Televicion
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#INF:-1 ,Conecta TV
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
+
+#INF:-1 ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#INF:-1 ,The Retro Cannel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#INF:-1 ,TV Exitos
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#INF:-1 ,Eternal Metal
+https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
