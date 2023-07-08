@@ -1,9 +1,6 @@
 #EXTM3U
 
-#INF:-1 ,las estrellasMX
-http://tv.nousiptv.com:8080/leo4590/426leo3816/4030
-
-#INF:-1 ,Clasic Channels
+#INF:-1 ,Clasic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
 #INF:-1 ,RND 44
@@ -92,3 +89,12 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
 #INF:-1 ,Eternal Metal
 https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
+
+#INF:-1 ,Canal 13 (Chiapas)
+https://c13mx.mediatiquestream.com/canal13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13chiapas/live3/chunks.m3u8
+
+
+
+
+
+
